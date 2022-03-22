@@ -5,6 +5,12 @@
     margin: auto;
 }
 
+img {
+    height: auto;
+    width: 300px;
+    border-radius: 25%;
+}
+
 .recipe {
     text-align:center;
     width: 600px;
@@ -12,12 +18,7 @@
     border-radius: 10%;
 }
 
-img {
-    height: auto;
-    width: 600px;
-    border-radius: 50%;
-}
-
 a {
     font-size: 50px;
 }
+
